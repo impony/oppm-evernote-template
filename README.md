@@ -12,3 +12,7 @@ __An Evernote Template Note for One-page Project Manager(OPPM)__
 关键字：印象笔记 一页纸项目管理 模板 evernote one-page project manager template
 
 by imPony
+
+### 截图
+
+![](https://raw.githubusercontent.com/impony/oppm-evernote-template/master/screenshot.png)
